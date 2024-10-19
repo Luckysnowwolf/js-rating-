@@ -1,0 +1,11 @@
+let price = ("Name your price")
+let discount = ("0.1")
+let price2 = (420)
+let price3 = (300)
+let price4 =(1200)
+
+console.log(price * discount)
+console.log(price * discount)
+console.log(price2 * discount)
+console.log(price3 * discount)
+console.log(price4 * discount)
