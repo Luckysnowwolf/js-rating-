@@ -10,4 +10,3 @@ console.log(`new price is ${Price2 * Discount}kr`)
 console.log(`new price is ${Price3 * Discount}kr`)
 console.log(`new price is ${Price4 * Discount}kr`)
 console.log(`new price is ${Price5 * Discount}kr`)
-
