@@ -1,5 +1,5 @@
 let Price = prompt("Name your price")
-let Discount = ("0.1")
+let Discount = ("0.9")
 let Price2 = (420)
 let Price3 = (300)
 let Price4 =(1200)
